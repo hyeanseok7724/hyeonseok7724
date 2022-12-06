@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
   <br>
   
+ ## 최현석의 깃허브 👋
+⌨️ 블로그 링크:https://velog.io/@chlgustjr
+<br>
+📖 포트폴리오:https://www.notion.so/e14d2d0e052d4ce3a1fc5f6c8366a98a
