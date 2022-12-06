@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧩Email🧩
+hyeonseok79@gmail.com
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
   <br>
   
-![hyeonseok7724's github stats](https://github-readme-stats.vercel.app/api?username=hyeonseok7724&show_icons=true)
